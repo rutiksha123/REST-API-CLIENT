@@ -23,5 +23,4 @@ In conclusion the code provides a solution for building an interactive weather a
 
 # OUTPUT
 
-
-
+![Image](https://github.com/user-attachments/assets/6aa64b00-4911-495e-9d10-900c2e2a3c02)
